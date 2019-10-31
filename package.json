@@ -35,7 +35,8 @@
     "rxjs": "^6.5.3",
     "slonik": "^19.2.0",
     "twilio": "^3.37.0",
-    "typeorm": "^0.2.20"
+    "typeorm": "^0.2.20",
+    "uuid": "^3.3.3"
   },
   "devDependencies": {
     "@nestjs/cli": "^6.9.0",
